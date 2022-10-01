@@ -1,0 +1,70 @@
+
+
+         @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+         *{
+            font-family: roboto
+         }
+
+        .primeiro-elemento{
+            color:rgb(255, 255, 255)
+        }
+
+        #segundo-elemento{
+            color: rgb(255, 255, 255);
+        }
+
+        p{
+            color: #ffffff;
+            margin-top: 10px;
+            margin-right: 100px;
+            margin-bottom: 25px;
+            margin-left: 5px;
+            font-size: smaller;
+        }
+
+        body {
+            background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/696278-texturizado-fundo-preto-gr%C3%A1tis-vetor.jpg);
+            background-size: cover;
+        }
+
+        em{
+            color: white
+            background-color: #F0FFF0;
+            margin-top: 10px;
+            margin-right: 300px;
+            
+        img{
+            border-image: round;
+        }
+
+        }
+
+        table{
+            background-color: #ffd700
+        }
+
+        .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+        h4{
+            color: white
+        }
+
+        h3{
+            color: white
+        }
+
+        li{
+            color: white
+        }
+
+        
+
+
+        
+  
